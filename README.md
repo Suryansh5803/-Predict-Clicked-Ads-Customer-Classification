@@ -12,7 +12,7 @@
 
 ---
 
-## 1. Project Overview
+## 1. Project Overview (#project-overview)
 
 This project aims to develop a machine learning model capable of predicting whether users will click on an advertisement, using behavioral and demographic data. The goal is to increase ad engagement, improve ad spend efficiency, and maximize revenue from ad clicks by providing actionable insights for targeted marketing.
 
